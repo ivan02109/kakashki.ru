@@ -16,7 +16,7 @@ html{
 
 .back_img{
     height: 100%;
-    background-image: url(back.jpg);
+    background-image: url(backblur.jpg);
     filter: blur(8px);
     background-repeat: no-repeat;
     background-size: cover;
